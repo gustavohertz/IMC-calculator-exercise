@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #A0A0A0;
+}
+label{
+  font-size: 45px;
+}
+button{
+  font-size: 45px;
+  background-color: #FF7000;
+  position: relative;
+  left: 150px;
+  top: 20px;
+  border-radius: 14px;
+  cursor: pointer;
+}
+input{
+  font-size: 32px;
+  background-color: #F0F0F0;
+  border-radius: 14px;
+}
+p{
+  font-size: 25px;
+}
+footer{
+  position: relative;
+  top: 70px;
+}
+a :hover{
+  color:darkblue;
+}
+h1{
+  font-size: 40px;
+}
